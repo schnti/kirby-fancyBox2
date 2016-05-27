@@ -1,0 +1,8 @@
+{
+  "name": "fancybox",
+  "description": "kirby tag for fancybox2",
+  "author": "Timo Schneider",
+  "license": "MIT",
+  "version": "0.1.0",
+  "type": "kirby-tag"
+}
